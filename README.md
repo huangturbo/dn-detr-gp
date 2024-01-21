@@ -29,13 +29,13 @@ We provide our checkpoint files:
       <th>2</th>
       <td>DN-DETR-R50-Greedy-Prune</td>
       <td>45.4</td>
-      <td><a href="https://pan.baidu.com/s/1wusxOH6REilaeG8fkX7IBQ?pwd=dhuh">BaiDu</a>&nbsp;</td>
+      <td><a href="https://pan.baidu.com/s/1MNfOkobF8cWeoqAXcp0SAw?pwd=dhuh">BaiDu</a>&nbsp;</td>
     </tr>
     <tr>
       <th>3</th>
       <td>DN-DETR-R50-Modular-Greedy-Prune</td>
       <td>45.3</td>
-      <td><a href="https://pan.baidu.com/s/1JfMFFgjN1pTyrUUneetFhA?pwd=dhuh">BaiDu</a>&nbsp;</td>
+      <td><a href="https://pan.baidu.com/s/1nab4Ng3Mp7ZIWZ4ONJEClw?pwd=dhuh">BaiDu</a>&nbsp;</td>
     </tr>
   </tbody>
 </table>
